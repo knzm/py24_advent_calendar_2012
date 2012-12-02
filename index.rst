@@ -11,17 +11,20 @@ Python 2.4 Advent Calendar 2012
 .. .. toctree::
 ..    :maxdepth: 2
 
+- :ref:`intro`
+- :ref:`print`
+- :ref:`try_except_finally`
+- :ref:`with`
+- :ref:`if_else`
 - startswith, endswith にリストを渡せない
-- with が使えない
-- print の出力先を変更する文法がダサい
-- 3項演算子がない
 - yield from が使えない
 - any, all がない
 
+- ordereddict がない
 - xml.etree がない
 - argparse がない
-- ordereddict がない
 - functools がない
+- Python 2.4 で使えないライブラリ
 
 - 相対インポートが使えない
 - Exception が object のサブクラスではない
@@ -32,8 +35,6 @@ Python 2.4 Advent Calendar 2012
 
 - CentOS 5 で新しいバージョンの Python を使いたい場合
 - Ubuntu で Python 2.4 をインストールする方法
-
-- Python 2.4 で使えないライブラリ
 
 
 Indices and tables
