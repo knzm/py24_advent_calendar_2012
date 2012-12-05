@@ -19,15 +19,28 @@ Python 2.4 Advent Calendar 2012
 - startswith, endswith にリストを渡せない
 - yield from が使えない
 - any, all がない
+- set リテラルが使えない
+- :ref:`defaultdict`
+- :ref:`ordereddict`
+- namedtuple がない
 
-- ordereddict がない
 - xml.etree がない
+- json がない
 - argparse がない
 - functools がない
+- sqlite3 がない
 - Python 2.4 で使えないライブラリ
 
-- 相対インポートが使えない
+  - webob >= 1.1 (ok: 1.0.8)
+  - Beaker >= 1.6 (ok: 1.5.4)
+  - PasteDeploy >= 1.5.0 (ok: 1.3.4)
+  - IPy >= 0.73 (ok: 0.72)
+  - PyYAML >= 3.10 (ok: 3.09)
+  - rsa >= 3.0 (ok: 1.3.3)
+  - decorator >= 3.4.0 (ok: 3.3.3)
+
 - Exception が object のサブクラスではない
+- 相対インポートが使えない
 - セルオブジェクトに cell_contents 属性がない
 
 - True, False が代入可能
