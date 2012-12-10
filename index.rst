@@ -22,13 +22,15 @@ Python 2.4 Advent Calendar 2012
 - set リテラルが使えない
 - :ref:`defaultdict`
 - :ref:`ordereddict`
-- namedtuple がない
+- :ref:`namedtuple`
+- os.path.relpath がない
 
 - xml.etree がない
-- json がない
+- :ref:`json`
 - argparse がない
 - functools がない
 - sqlite3 がない
+- multiprocessing がない
 - Python 2.4 で使えないライブラリ
 
   - webob >= 1.1 (ok: 1.0.8)
@@ -38,6 +40,7 @@ Python 2.4 Advent Calendar 2012
   - PyYAML >= 3.10 (ok: 3.09)
   - rsa >= 3.0 (ok: 1.3.3)
   - decorator >= 3.4.0 (ok: 3.3.3)
+  - simplejson >= 2.4.0 (ok: 2.3.3)
 
 - Exception が object のサブクラスではない
 - 相対インポートが使えない
