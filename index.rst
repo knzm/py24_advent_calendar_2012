@@ -23,12 +23,12 @@ Python 2.4 Advent Calendar 2012
 - :ref:`defaultdict`
 - :ref:`ordereddict`
 - :ref:`namedtuple`
+- :ref:`functools`
 - os.path.relpath がない
 
 - xml.etree がない
 - :ref:`json`
 - argparse がない
-- functools がない
 - sqlite3 がない
 - multiprocessing がない
 - Python 2.4 で使えないライブラリ
