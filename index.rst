@@ -26,7 +26,7 @@ Python 2.4 Advent Calendar 2012
 - :ref:`functools`
 - os.path.relpath がない
 
-- xml.etree がない
+- :ref:`etree`
 - :ref:`json`
 - argparse がない
 - sqlite3 がない
