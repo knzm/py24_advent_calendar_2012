@@ -1,3 +1,5 @@
+:orphan:
+
 .. _functools:
 
 :mod:`functools` がない

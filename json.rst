@@ -1,3 +1,5 @@
+:orphan:
+
 .. _json:
 
 :mod:`json` モジュールがない

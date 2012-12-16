@@ -1,3 +1,5 @@
+:orphan:
+
 .. _defaultdict:
 
 :class:`defaultdict` がない

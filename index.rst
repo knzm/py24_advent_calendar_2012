@@ -13,9 +13,9 @@ Python 2.4 Advent Calendar 2012
 
 - :ref:`intro`
 - :ref:`print`
-- :ref:`try_except_finally`
+- :ref:`try-except-finally`
 - :ref:`with`
-- :ref:`if_else`
+- :ref:`if-else`
 - startswith, endswith にリストを渡せない
 - yield from が使えない
 - any, all がない

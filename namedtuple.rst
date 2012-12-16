@@ -1,3 +1,5 @@
+:orphan:
+
 .. _namedtuple:
 
 :class:`namedtuple` がない

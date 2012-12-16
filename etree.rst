@@ -1,3 +1,5 @@
+:orphan:
+
 .. _etree:
 
 :mod:`xml.etree` がない

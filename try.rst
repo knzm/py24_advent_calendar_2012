@@ -1,4 +1,6 @@
-.. _try_except_finally:
+:orphan:
+
+.. _try-except-finally:
 
 ``try-except`` と ``try-finally`` を1つの ``try`` にできない
 ============================================================
