@@ -43,7 +43,7 @@ Python 2.4 Advent Calendar 2012
   - simplejson >= 2.4.0 (ok: 2.3.3)
 
 - :ref:`old-style-class`
-- 相対インポートが使えない
+- :ref:`relative-import`
 - セルオブジェクトに cell_contents 属性がない
 
 - True, False が代入可能
