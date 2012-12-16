@@ -42,7 +42,7 @@ Python 2.4 Advent Calendar 2012
   - decorator >= 3.4.0 (ok: 3.3.3)
   - simplejson >= 2.4.0 (ok: 2.3.3)
 
-- Exception が object のサブクラスではない
+- :ref:`old-style-class`
 - 相対インポートが使えない
 - セルオブジェクトに cell_contents 属性がない
 
