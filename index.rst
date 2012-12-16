@@ -46,7 +46,7 @@ Python 2.4 Advent Calendar 2012
 - :ref:`relative-import`
 - セルオブジェクトに cell_contents 属性がない
 
-- True, False が代入可能
+- :ref:`const`
 - as がキーワードではない
 
 - CentOS 5 で新しいバージョンの Python を使いたい場合
