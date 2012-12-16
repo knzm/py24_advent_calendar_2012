@@ -49,8 +49,8 @@ Python 2.4 Advent Calendar 2012
 - :ref:`const`
 - as がキーワードではない
 
-- CentOS 5 で新しいバージョンの Python を使いたい場合
-- Ubuntu で Python 2.4 をインストールする方法
+- :ref:`centos-epel`
+- :ref:`ubuntu-deadsnakes`
 
 
 Indices and tables
