@@ -12,18 +12,22 @@ Python 2.4 Advent Calendar 2012
 ..    :maxdepth: 2
 
 - :ref:`intro`
+
 - :ref:`print`
 - :ref:`try-except-finally`
 - :ref:`with`
 - :ref:`if-else`
-- startswith, endswith にリストを渡せない
 - yield from が使えない
-- any, all がない
 - set リテラルが使えない
+- :ref:`old-style-class`
+- :ref:`relative-import`
+
 - :ref:`defaultdict`
 - :ref:`ordereddict`
 - :ref:`namedtuple`
 - :ref:`functools`
+- startswith, endswith にリストを渡せない
+- any, all がない
 - os.path.relpath がない
 
 - :ref:`etree`
@@ -31,26 +35,17 @@ Python 2.4 Advent Calendar 2012
 - argparse がない
 - sqlite3 がない
 - multiprocessing がない
-- Python 2.4 で使えないライブラリ
 
-  - webob >= 1.1 (ok: 1.0.8)
-  - Beaker >= 1.6 (ok: 1.5.4)
-  - PasteDeploy >= 1.5.0 (ok: 1.3.4)
-  - IPy >= 0.73 (ok: 0.72)
-  - PyYAML >= 3.10 (ok: 3.09)
-  - rsa >= 3.0 (ok: 1.3.3)
-  - decorator >= 3.4.0 (ok: 3.3.3)
-  - simplejson >= 2.4.0 (ok: 2.3.3)
+- :ref:`third-party`
 
-- :ref:`old-style-class`
-- :ref:`relative-import`
 - セルオブジェクトに cell_contents 属性がない
-
 - :ref:`const`
 - as がキーワードではない
 
 - :ref:`centos-epel`
 - :ref:`ubuntu-deadsnakes`
+
+- :ref:`outro`
 
 
 Indices and tables
